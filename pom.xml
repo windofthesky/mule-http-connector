@@ -33,7 +33,7 @@
         <formatterConfigPath>formatter.xml</formatterConfigPath>
 
         <muleSocketsConnectorVersion>2.0.0-greenarrow</muleSocketsConnectorVersion>
-        <muleCorsKernelVersion>1.0.1-SNAPSHOT</muleCorsKernelVersion>
+        <muleCorsKernelVersion>1.0.1-greenarrow</muleCorsKernelVersion>
     </properties>
 
     <build>
