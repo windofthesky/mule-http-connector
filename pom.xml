@@ -32,7 +32,7 @@
         <guavaVersion>18.0</guavaVersion>
         <formatterConfigPath>formatter.xml</formatterConfigPath>
 
-        <muleSocketsConnectorVersion>2.0.0-greenarrow</muleSocketsConnectorVersion>
+        <muleSocketsConnectorVersion>1.0.0-greenarrow</muleSocketsConnectorVersion>
         <muleCorsKernelVersion>1.0.1-greenarrow</muleCorsKernelVersion>
     </properties>
 
